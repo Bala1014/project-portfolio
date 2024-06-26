@@ -1,0 +1,13 @@
+body{
+    background-color: #084438!important;    
+}
+.hero{
+    background-image: url(./images/background.jpg) ;
+}
+.my-image{
+    border-radius: 50%;
+}
+.trust-card{
+    background-color: #71C5BD !important;
+}
+
